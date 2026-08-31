@@ -81,3 +81,31 @@ repository = "mayari-org/mayari"
 run_attempt = 1
 run_id = "31685585609"
 workflow = ".github/workflows/release.yml"
+
+["0.7.4 luau"]
+description = "An Adaptive Luau Web Backend Framework."
+download = "https://cdn.luaupm.com/mayari/core/0.7.4.tar.gz"
+name = "mayari/core"
+published_at = "2026-08-31T09:57:29Z"
+published_by = "BizWiz3"
+repository = "https://github.com/mayari-org/mayari"
+target = "luau"
+type = "luau"
+version = "0.7.4"
+
+["0.7.4 luau".dependencies.adpt]
+name = "mayari/adpt"
+version = "^"
+
+["0.7.4 luau".dependencies.common]
+name = "mayari/common"
+version = "^"
+
+["0.7.4 luau".provenance]
+commit = "d4abc880a596106406b2d47ea665bfedb3e04e34"
+digest = "sha256:28abfd93c4c0b2e7cc86621804bdbdd7fd993465b7cd33846aa5b330ad28f79f"
+ref = "refs/tags/v0.7.4"
+repository = "mayari-org/mayari"
+run_attempt = 1
+run_id = "33380172366"
+workflow = ".github/workflows/release.yml"
