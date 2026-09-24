@@ -16,3 +16,22 @@ version = "^"
 ["0.1.0 luau".dependencies.common]
 name = "mayari/common"
 version = "^"
+
+["0.1.1 luau"]
+description = "A lightweight Cloudflare D1 HTTP client for Luau."
+download = "https://cdn.luaupm.com/mayari/d1client/0.1.1.tar.gz"
+name = "mayari/d1client"
+published_at = "2026-09-24T08:50:36Z"
+published_by = "BizWiz3"
+repository = "https://github.com/mayari-org/d1client"
+target = "luau"
+type = "luau"
+version = "0.1.1"
+
+["0.1.1 luau".dependencies.adpt]
+name = "mayari/adpt"
+version = "^"
+
+["0.1.1 luau".dependencies.common]
+name = "mayari/common"
+version = "^"
