@@ -16,3 +16,22 @@ version = "^"
 ["0.1.0 luau".dependencies.common]
 name = "mayari/common"
 version = "^"
+
+["0.1.1 luau"]
+description = "Filesystem-based static file serving for Mayari."
+download = "https://cdn.luaupm.com/mayari/static/0.1.1.tar.gz"
+name = "mayari/static"
+published_at = "2026-09-28T12:17:27Z"
+published_by = "BizWiz3"
+repository = "https://github.com/mayari-org/static"
+target = "luau"
+type = "luau"
+version = "0.1.1"
+
+["0.1.1 luau".dependencies.adpt]
+name = "mayari/adpt"
+version = "^"
+
+["0.1.1 luau".dependencies.common]
+name = "mayari/common"
+version = "^"
