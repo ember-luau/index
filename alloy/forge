@@ -1,0 +1,10 @@
+["0.1.0 roblox-alloy"]
+description = "OOP providers for Alloy, after Chief: lifecycles, dependencies, traits, and Bin in one package"
+download = "https://cdn.luaupm.com/alloy/forge/0.1.0.tar.gz"
+language = "alloy"
+name = "alloy/forge"
+published_at = "2026-10-26T06:15:08Z"
+published_by = "savruun"
+target = "roblox"
+type = "roblox"
+version = "0.1.0"
