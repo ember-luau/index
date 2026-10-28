@@ -1,0 +1,11 @@
+["0.1.0-rc.1 roblox"]
+description = "Zero-Hierarchy Immediate-Mode UI for Roblox"
+download = "https://cdn.luaupm.com/teamfireworks/ink/0.1.0-rc.1.tar.gz"
+logo = "https://cdn.luaupm.com/teamfireworks/ink/0.1.0-rc.1.logo.png"
+name = "teamfireworks/ink"
+published_at = "2026-10-28T13:52:54Z"
+published_by = "rniraclefire"
+repository = "https://github.com/rniraclefire/ink"
+target = "roblox"
+type = "roblox"
+version = "0.1.0-rc.1"
