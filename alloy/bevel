@@ -1,0 +1,11 @@
+["0.1.0 roblox-alloy"]
+description = "Components, services, injectors, and signals for Alloy, after Angular"
+download = "https://cdn.emberpm.dev/alloy/bevel/0.1.0.tar.gz"
+language = "alloy"
+name = "alloy/bevel"
+published_at = "2026-10-30T20:13:53Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+target = "roblox"
+type = "roblox"
+version = "0.1.0"
