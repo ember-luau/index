@@ -1,5 +1,6 @@
 ["0.1.0 luau"]
 download = "https://cdn.luaupm.com/mayari/eval/0.1.0.tar.gz"
+logo = "https://cdn.emberpm.dev/mayari/eval/0.1.0.logo.e0cccd5f353349d2.png"
 name = "mayari/eval"
 published_at = "2026-10-04T13:17:37Z"
 published_by = "BizWiz3"
