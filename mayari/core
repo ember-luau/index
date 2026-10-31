@@ -209,6 +209,7 @@ workflow = ".github/workflows/release.yml"
 ["0.8.0 luau"]
 description = "An Adaptive Luau Web Backend Framework."
 download = "https://cdn.luaupm.com/mayari/core/0.8.0.tar.gz"
+logo = "https://cdn.emberpm.dev/mayari/core/0.8.0.logo.e0cccd5f353349d2.png"
 name = "mayari/core"
 published_at = "2026-10-07T06:21:32Z"
 published_by = "BizWiz3"
