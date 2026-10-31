@@ -15,6 +15,7 @@ version = "^"
 ["0.1.11 luau"]
 description = "Shared utilities for the Mayari ecosystem."
 download = "https://cdn.luaupm.com/mayari/common/0.1.11.tar.gz"
+logo = "https://cdn.emberpm.dev/mayari/common/0.1.11.logo.e0cccd5f353349d2.png"
 name = "mayari/common"
 published_at = "2026-08-30T14:58:35Z"
 published_by = "BizWiz3"
