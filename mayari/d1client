@@ -20,6 +20,7 @@ version = "^"
 ["0.1.1 luau"]
 description = "A lightweight Cloudflare D1 HTTP client for Luau."
 download = "https://cdn.luaupm.com/mayari/d1client/0.1.1.tar.gz"
+logo = "https://cdn.emberpm.dev/mayari/d1client/0.1.1.logo.e0cccd5f353349d2.png"
 name = "mayari/d1client"
 published_at = "2026-09-24T08:50:36Z"
 published_by = "BizWiz3"
