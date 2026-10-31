@@ -55,7 +55,7 @@ version = "^"
 ["0.1.6 luau"]
 description = "An adapter layer for mayari."
 download = "https://cdn.luaupm.com/mayari/adpt/0.1.6.tar.gz"
-logo = "https://cdn.emberpm.dev/mayari/adpt/0.1.6.logo.2337149b4773a421.png"
+logo = "https://cdn.emberpm.dev/mayari/adpt/0.1.6.logo.e0cccd5f353349d2.png"
 name = "mayari/adpt"
 published_at = "2026-09-28T12:53:12Z"
 published_by = "BizWiz3"
