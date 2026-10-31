@@ -11,6 +11,7 @@ version = "0.1.0"
 ["0.1.1 luau"]
 description = "Global Type Definition of Mayari."
 download = "https://cdn.luaupm.com/mayari/types/0.1.1.tar.gz"
+logo = "https://cdn.emberpm.dev/mayari/types/0.1.1.logo.e0cccd5f353349d2.png"
 name = "mayari/types"
 published_at = "2026-09-28T12:11:02Z"
 published_by = "BizWiz3"
