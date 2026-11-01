@@ -1,0 +1,11 @@
+["0.1.0 roblox-alloy"]
+description = "Typed player data on Roblox DataStores, with session locks, migrations, and receipts"
+download = "https://cdn.emberpm.dev/alloy/ledger/0.1.0.tar.gz"
+language = "alloy"
+name = "alloy/ledger"
+published_at = "2026-11-01T02:51:48Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+target = "roblox"
+type = "roblox"
+version = "0.1.0"
