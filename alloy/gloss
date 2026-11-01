@@ -1,0 +1,11 @@
+["0.1.0 roblox-alloy"]
+description = "Localization for Alloy, with string keys that the compiler checks"
+download = "https://cdn.emberpm.dev/alloy/gloss/0.1.0.tar.gz"
+language = "alloy"
+name = "alloy/gloss"
+published_at = "2026-11-01T02:52:17Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+target = "roblox"
+type = "roblox"
+version = "0.1.0"
