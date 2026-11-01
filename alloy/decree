@@ -1,0 +1,11 @@
+["0.1.0 roblox-alloy"]
+description = "Typed console commands for Roblox games: the server parses, checks, and runs each line"
+download = "https://cdn.emberpm.dev/alloy/decree/0.1.0.tar.gz"
+language = "alloy"
+name = "alloy/decree"
+published_at = "2026-11-01T06:25:12Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+target = "roblox"
+type = "roblox"
+version = "0.1.0"
