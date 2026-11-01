@@ -1,0 +1,11 @@
+["0.1.0 roblox-alloy"]
+description = "Input actions for Roblox games: an enum of actions on the Input Action System"
+download = "https://cdn.emberpm.dev/alloy/lever/0.1.0.tar.gz"
+language = "alloy"
+name = "alloy/lever"
+published_at = "2026-11-01T02:54:14Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+target = "roblox"
+type = "roblox"
+version = "0.1.0"
