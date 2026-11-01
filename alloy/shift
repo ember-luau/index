@@ -1,0 +1,11 @@
+["0.1.0 roblox-alloy"]
+description = "State machines over Alloy enums: transitions as a match, enter and exit hooks, timers, and history"
+download = "https://cdn.emberpm.dev/alloy/shift/0.1.0.tar.gz"
+language = "alloy"
+name = "alloy/shift"
+published_at = "2026-11-01T04:09:52Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+target = "roblox"
+type = "roblox"
+version = "0.1.0"
