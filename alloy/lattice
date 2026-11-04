@@ -14,3 +14,21 @@ version = "0.1.0"
 index = "wally"
 name = "ukendio/jecs"
 version = "^0.11.0"
+
+["0.1.1 roblox-alloy"]
+description = "A typed ECS for Alloy over jecs: components, queries, systems in phases, and a scheduler"
+download = "https://cdn.emberpm.dev/alloy/lattice/0.1.1.tar.gz"
+language = "alloy"
+name = "alloy/lattice"
+published_at = "2026-11-04T07:38:44Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+sha256 = "a8986b49bdeceb43b2aed5764d07664b5367f617b4d860c2a7784b8c949b420f"
+target = "roblox"
+type = "roblox"
+version = "0.1.1"
+
+["0.1.1 roblox-alloy".dependencies.jecs]
+index = "https://github.com/UpliftGames/wally-index"
+name = "ukendio/jecs"
+version = "^0.11.0"
