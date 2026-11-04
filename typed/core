@@ -18,3 +18,11 @@ version = "^0.1.0"
 ["0.9.1 luau".peer-dependencies.engine]
 name = "typed/engine"
 version = "^0.1.0"
+
+[[meta.notices]]
+id = "d3d38e48e70f"
+level = "warning"
+message = "has broken requires; do not install"
+posted_at = "2026-11-04T07:38:09Z"
+posted_by = "metamethods"
+versions = "^0.9.1"
