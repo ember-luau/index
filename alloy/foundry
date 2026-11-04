@@ -1,0 +1,12 @@
+["0.1.0 roblox-alloy"]
+description = "Worker pools on Roblox actors for Alloy, with typed jobs and a serial fallback"
+download = "https://cdn.emberpm.dev/alloy/foundry/0.1.0.tar.gz"
+language = "alloy"
+name = "alloy/foundry"
+published_at = "2026-11-04T07:38:37Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+sha256 = "c490858399c8c73b8e5c4c4ee956c7ab285fb2ef102ee412078bbfe804ecfe55"
+target = "roblox"
+type = "roblox"
+version = "0.1.0"
