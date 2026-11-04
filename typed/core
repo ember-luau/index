@@ -9,6 +9,7 @@ sha256 = "1e7b05685acf4e15452b0ce26b80704962dd0334ee8f8396cd3349f34239a25d"
 target = "luau"
 type = "luau"
 version = "0.9.1"
+yanked = true
 
 ["0.9.1 luau".dev-dependencies.engine]
 name = "typed/engine"
