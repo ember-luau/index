@@ -49,6 +49,7 @@ version = "0.1.0-rc.4"
 ["0.1.0-rc.5 roblox"]
 description = "Roblox UI beyond the instance tree"
 download = "https://cdn.emberpm.dev/teamfireworks/ink/0.1.0-rc.5.tar.gz"
+logo = "https://cdn.emberpm.dev/teamfireworks/ink/0.1.0-rc.5.logo.edbefd8dd6a0ebd8.png"
 name = "teamfireworks/ink"
 published_at = "2026-11-02T13:06:51Z"
 published_by = "rniraclefire"
