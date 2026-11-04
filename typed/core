@@ -1,0 +1,19 @@
+["0.9.1 luau"]
+description = "luau runtime type validation library"
+download = "https://cdn.emberpm.dev/typed/core/0.9.1.tar.gz"
+name = "typed/core"
+published_at = "2026-11-04T07:29:35Z"
+published_by = "metamethods"
+repository = "https://github.com/metamethods/typed"
+sha256 = "1e7b05685acf4e15452b0ce26b80704962dd0334ee8f8396cd3349f34239a25d"
+target = "luau"
+type = "luau"
+version = "0.9.1"
+
+["0.9.1 luau".dev-dependencies.engine]
+name = "typed/engine"
+version = "^0.1.0"
+
+["0.9.1 luau".peer-dependencies.engine]
+name = "typed/engine"
+version = "^0.1.0"
