@@ -1,0 +1,11 @@
+["1.0.0 roblox"]
+description = "Phosphor Icons for Roblox"
+download = "https://cdn.emberpm.dev/teamfireworks/prospero/1.0.0.tar.gz"
+name = "teamfireworks/prospero"
+published_at = "2026-11-06T03:26:28Z"
+published_by = "rniraclefire"
+repository = "https://github.com/teamfireworks/rbx-phosphor-icons"
+sha256 = "dfaa6983bea465045e49ad48387562afdd1df5cfa6f74ed0343e12717259ffe1"
+target = "roblox"
+type = "roblox"
+version = "1.0.0"
