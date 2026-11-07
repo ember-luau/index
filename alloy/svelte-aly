@@ -35,3 +35,28 @@ words = [
     "#each",
     "/each",
 ]
+
+["0.1.2 roblox-alloy"]
+description = "Svelte's runes and blocks for Alloy: $state, $derived, $effect, {#if}, and {#each}"
+download = "https://cdn.emberpm.dev/alloy/svelte-aly/0.1.2.tar.gz"
+language = "alloy"
+name = "alloy/svelte-aly"
+published_at = "2026-11-07T22:52:05Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+sha256 = "827064ed8e17bcad9f33bed475bd5b9e231962e77a711799f17b50f4995bea0d"
+target = "roblox"
+type = "roblox"
+version = "0.1.2"
+
+[["0.1.2 roblox-alloy".highlight.rules]]
+before = '\{'
+languages = ["alx"]
+type = "keyword"
+words = [
+    "#if",
+    ":else",
+    "/if",
+    "#each",
+    "/each",
+]
