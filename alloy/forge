@@ -33,3 +33,51 @@ sha256 = "bb18f26fe1776d2004eaecfd04f55d0469f9d8d20c10e215da415efadbb176b3"
 target = "roblox"
 type = "roblox"
 version = "0.1.2"
+
+["0.2.0 roblox-alloy"]
+description = "OOP providers for Alloy, after Chief: a small core, with lifecycles, dependencies, traits, and Bin as opt-in features"
+download = "https://cdn.emberpm.dev/alloy/forge/0.2.0.tar.gz"
+language = "alloy"
+name = "alloy/forge"
+published_at = "2026-11-07T04:08:21Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+sha256 = "1e21530a1403d090e3c1518d584ba7391fdb9804ec5bd7ccbb66f7a82f6fc297"
+target = "roblox"
+type = "roblox"
+version = "0.2.0"
+
+["0.2.0 roblox-alloy".feature-files.bin]
+entry = "build/bin"
+files = [
+    "build/bin.luau",
+    "src/bin.aly",
+]
+
+["0.2.0 roblox-alloy".feature-files.dependencies]
+entry = "build/dependencies"
+files = [
+    "build/dependencies.luau",
+    "src/dependencies.aly",
+]
+
+["0.2.0 roblox-alloy".feature-files.lifecycles]
+entry = "build/lifecycles"
+files = [
+    "build/lifecycles.luau",
+    "src/lifecycles.aly",
+]
+
+["0.2.0 roblox-alloy".feature-files.traits]
+entry = "build/traits"
+files = [
+    "build/traits.luau",
+    "src/traits.aly",
+]
+
+["0.2.0 roblox-alloy".features]
+bin = []
+default = []
+dependencies = []
+lifecycles = []
+traits = ["bin"]
