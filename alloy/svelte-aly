@@ -10,3 +10,28 @@ sha256 = "136ad63d0f49326908f3a727c3823c134ca71ea618f21354173a1e3f60f45521"
 target = "roblox"
 type = "roblox"
 version = "0.1.0"
+
+["0.1.1 roblox-alloy"]
+description = "Svelte's runes and blocks for Alloy: $state, $derived, $effect, {#if}, and {#each}"
+download = "https://cdn.emberpm.dev/alloy/svelte-aly/0.1.1.tar.gz"
+language = "alloy"
+name = "alloy/svelte-aly"
+published_at = "2026-11-07T06:02:59Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+sha256 = "5ce0915a2bfa471a67f68f779dbff24f7d6967a0b88912037f3e071d893cd8ff"
+target = "roblox"
+type = "roblox"
+version = "0.1.1"
+
+[["0.1.1 roblox-alloy".highlight.rules]]
+before = '\{'
+languages = ["alx"]
+type = "keyword"
+words = [
+    "#if",
+    ":else",
+    "/if",
+    "#each",
+    "/each",
+]
