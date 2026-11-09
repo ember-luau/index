@@ -1,0 +1,12 @@
+["0.1.0 luau-luwu"]
+description = "Colors for Luwu: perceptual mixing and adjustments, typechecked CSS color parsing, HSL, OKLCH and Lab conversions, WCAG contrast, terminal codes and pixel buffers"
+download = "https://cdn.emberpm.dev/seal-runtime/color/0.1.0.tar.gz"
+language = "luwu"
+name = "seal-runtime/color"
+published_at = "2026-11-09T04:51:22Z"
+published_by = "deviaze"
+repository = "https://github.com/seal-runtime/color"
+sha256 = "b11a9c3c314d8d825ef75700a331e81abf15d7a3da5f4e265341575b92b046dd"
+target = "luau"
+type = "luau"
+version = "0.1.0"
