@@ -1,3 +1,28 @@
+["0.10.0 luau"]
+description = "luau runtime type validation library"
+download = "https://cdn.emberpm.dev/typed/core/0.10.0.tar.gz"
+name = "typed/core"
+published_at = "2026-11-17T07:53:34Z"
+published_by = "metamethods"
+repository = "https://github.com/metamethods/typed"
+sha256 = "583b0ed8c44ee1cf8be4d32120467831fad8bbaa8896372ce4a29c5d31618a9b"
+target = "luau"
+type = "luau"
+version = "0.10.0"
+
+["0.10.0 luau".dev-dependencies.engine]
+name = "typed/engine"
+version = "^0.1.0"
+
+["0.10.0 luau".provenance]
+commit = "83e4ce458d480d81f19006f938b18d8e1bbecb31"
+digest = "sha256:583b0ed8c44ee1cf8be4d32120467831fad8bbaa8896372ce4a29c5d31618a9b"
+ref = "refs/heads/master"
+repository = "metamethods/typed"
+run_attempt = 2
+run_id = "44041714442"
+workflow = ".github/workflows/publish.yaml"
+
 ["0.9.1 luau"]
 description = "luau runtime type validation library"
 download = "https://cdn.emberpm.dev/typed/core/0.9.1.tar.gz"
