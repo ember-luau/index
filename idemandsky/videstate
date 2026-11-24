@@ -32,6 +32,7 @@ name = "centau/vide"
 version = "0.4.1"
 
 ["0.1.1 roblox"]
+deprecated = "0.2.0 changes some existing features, so this version may no longer be compatible with it. Upgrade to 0.2.0."
 description = "A state handler for Vide that lets you build UI components with states, and change their properties as the state changes."
 download = "https://cdn.emberpm.dev/idemandsky/videstate/0.1.1.tar.gz"
 homepage = "https://idemandsky.github.io/VideState/"
