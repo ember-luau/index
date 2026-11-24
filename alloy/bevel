@@ -22,3 +22,17 @@ sha256 = "7e1a10aa6f94b9884f533f2ca98512cf4a053acd466f1cef0cff955528f0bd22"
 target = "roblox"
 type = "roblox"
 version = "0.1.1"
+
+["0.1.2 roblox-alloy"]
+description = "Components, services, injectors, and signals for Alloy, after Angular"
+download = "https://cdn.emberpm.dev/alloy/bevel/0.1.2.tar.gz"
+language = "alloy"
+name = "alloy/bevel"
+published_at = "2026-11-24T10:07:43Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+sha256 = "1c533c751254fb156eaa6eeb3c867ab85ffbd285cfca642fd03bedd1c01488f6"
+size = 95757
+target = "roblox"
+type = "roblox"
+version = "0.1.2"
