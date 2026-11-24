@@ -61,3 +61,35 @@ version = "^0.1.0"
 index = "https://github.com/UpliftGames/wally-index"
 name = "centau/vide"
 version = "0.4.1"
+
+["0.1.2 roblox"]
+description = "A state handler for Vide that lets you build UI components with states, and change their properties as the state changes."
+download = "https://cdn.emberpm.dev/idemandsky/videstate/0.1.2.tar.gz"
+homepage = "https://idemandsky.github.io/VideState/"
+name = "idemandsky/videstate"
+published_at = "2026-11-24T01:27:10Z"
+published_by = "iDemandSky"
+repository = "https://github.com/iDemandSky/VideState"
+sha256 = "4d941b68b380eaa1560d4960a40238ff2ed15c84cb69ac030767ebf9e5c100b3"
+size = 15331
+target = "roblox"
+type = "roblox"
+version = "0.1.2"
+
+["0.1.2 roblox".dependencies.Ripple]
+index = "https://github.com/UpliftGames/wally-index"
+name = "littensy/ripple"
+version = "0.10.2"
+
+["0.1.2 roblox".dependencies.Typed]
+name = "typed/core"
+version = "^0.9.2"
+
+["0.1.2 roblox".dependencies.TypedCore]
+name = "typed/engine"
+version = "^0.1.0"
+
+["0.1.2 roblox".dependencies.Vide]
+index = "https://github.com/UpliftGames/wally-index"
+name = "centau/vide"
+version = "0.4.1"
