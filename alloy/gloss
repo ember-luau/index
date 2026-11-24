@@ -22,3 +22,17 @@ sha256 = "a1026cc59d2545ffd54da2b611fe2bb649f22c4577c8b2d99a12c673c67f98a1"
 target = "roblox"
 type = "roblox"
 version = "0.1.1"
+
+["0.1.2 roblox-alloy"]
+description = "Localization for Alloy, with string keys that the compiler checks"
+download = "https://cdn.emberpm.dev/alloy/gloss/0.1.2.tar.gz"
+language = "alloy"
+name = "alloy/gloss"
+published_at = "2026-11-24T20:41:57Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+sha256 = "c196a41f0887d269f36d6da268e46be9b6ab841ded76d81193b62a81ad551cf2"
+size = 77524
+target = "roblox"
+type = "roblox"
+version = "0.1.2"
