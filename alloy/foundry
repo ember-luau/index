@@ -10,3 +10,17 @@ sha256 = "c490858399c8c73b8e5c4c4ee956c7ab285fb2ef102ee412078bbfe804ecfe55"
 target = "roblox"
 type = "roblox"
 version = "0.1.0"
+
+["0.1.1 roblox-alloy"]
+description = "Worker pools on Roblox actors for Alloy, with typed jobs and a serial fallback"
+download = "https://cdn.emberpm.dev/alloy/foundry/0.1.1.tar.gz"
+language = "alloy"
+name = "alloy/foundry"
+published_at = "2026-11-24T10:08:10Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+sha256 = "bc52737ed4b48b85556d966de21d3a2d1f3b301cf525fb25384712a6ced8e291"
+size = 67923
+target = "roblox"
+type = "roblox"
+version = "0.1.1"
