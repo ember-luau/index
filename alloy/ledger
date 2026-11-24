@@ -22,3 +22,17 @@ sha256 = "45b214eaf8a082173caf7a4cec5dcc9fee76ac1d63ef352d06d34513f0ac8499"
 target = "roblox"
 type = "roblox"
 version = "0.1.1"
+
+["0.1.2 roblox-alloy"]
+description = "Typed player data on Roblox DataStores, with session locks, migrations, and receipts"
+download = "https://cdn.emberpm.dev/alloy/ledger/0.1.2.tar.gz"
+language = "alloy"
+name = "alloy/ledger"
+published_at = "2026-11-24T10:08:14Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+sha256 = "22d504621bd54ae89d7cfab53b1fa3282db620e1303795b364096819f8710265"
+size = 78860
+target = "roblox"
+type = "roblox"
+version = "0.1.2"
