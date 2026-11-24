@@ -22,3 +22,17 @@ sha256 = "94906bd087227c96b92b7858c4636aa97c469953cef341a8ae1a0676786b01af"
 target = "roblox"
 type = "roblox"
 version = "0.1.1"
+
+["0.1.2 roblox-alloy"]
+description = "Typed console commands for Roblox games: the server parses, checks, and runs each line"
+download = "https://cdn.emberpm.dev/alloy/decree/0.1.2.tar.gz"
+language = "alloy"
+name = "alloy/decree"
+published_at = "2026-11-24T10:08:01Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+sha256 = "76b6afe2cf472d8463bd5d766678dda72f38bfe519a915364182b17a9ecf50ca"
+size = 74144
+target = "roblox"
+type = "roblox"
+version = "0.1.2"
