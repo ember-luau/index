@@ -98,6 +98,7 @@ name = "centau/vide"
 version = "0.4.1"
 
 ["0.2.0 roblox"]
+deprecated = "Replaced by 0.3.0, which renames fastForward to scaleSpeed and adds everyHandler. Update to idemandsky/videstate@0.3.0."
 description = "A state handler for Vide that lets you build UI components with states, and change their properties as the state changes."
 download = "https://cdn.emberpm.dev/idemandsky/videstate/0.2.0.tar.gz"
 homepage = "https://idemandsky.github.io/VideState/"
