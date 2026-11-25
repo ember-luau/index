@@ -36,3 +36,17 @@ size = 86661
 target = "roblox"
 type = "roblox"
 version = "0.2.0"
+
+["0.2.1 roblox-alloy"]
+description = "Input actions for Roblox games: an enum of actions on the Input Action System"
+download = "https://cdn.emberpm.dev/alloy/lever/0.2.1.tar.gz"
+language = "alloy"
+name = "alloy/lever"
+published_at = "2026-11-25T06:31:28Z"
+published_by = "savruun"
+repository = "https://github.com/alloy-luau/packages"
+sha256 = "897732439254d7a6733cbb3d5099a6dd08652c1dc924b042d521dcc80c187588"
+size = 88547
+target = "roblox"
+type = "roblox"
+version = "0.2.1"
