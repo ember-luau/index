@@ -273,3 +273,35 @@ version = "0.4.1"
 index = "https://github.com/UpliftGames/wally-index"
 name = "pepeeltoro41/ui-labs"
 version = "2.4.2"
+
+["0.5.1 roblox"]
+description = "A state handler for Vide that lets you build UI components with states, and change their properties as the state changes."
+download = "https://cdn.emberpm.dev/idemandsky/videstate/0.5.1.tar.gz"
+homepage = "https://idemandsky.github.io/VideState/"
+name = "idemandsky/videstate"
+published_at = "2026-11-28T01:44:01Z"
+published_by = "iDemandSky"
+repository = "https://github.com/iDemandSky/VideState"
+sha256 = "7f8c733559f45c8143c6c4bb0ccd53d8d75f1d219f796f9394e7f86bf083b894"
+size = 56787
+target = "roblox"
+type = "roblox"
+version = "0.5.1"
+
+["0.5.1 roblox".dependencies.Typed]
+name = "typed/core"
+version = "^0.9.2"
+
+["0.5.1 roblox".dependencies.TypedCore]
+name = "typed/engine"
+version = "^0.1.0"
+
+["0.5.1 roblox".dependencies.Vide]
+index = "https://github.com/UpliftGames/wally-index"
+name = "centau/vide"
+version = "0.4.1"
+
+["0.5.1 roblox".dev-dependencies.ui-labs]
+index = "https://github.com/UpliftGames/wally-index"
+name = "pepeeltoro41/ui-labs"
+version = "2.4.2"
